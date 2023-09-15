@@ -1,0 +1,14 @@
+/*Algemeen opmaak*/
+
+*{
+    background-color: rgb(255, 255, 255);
+}
+
+table {
+    border-style: solid;
+}
+
+td {
+    border-style: solid;
+}
+
